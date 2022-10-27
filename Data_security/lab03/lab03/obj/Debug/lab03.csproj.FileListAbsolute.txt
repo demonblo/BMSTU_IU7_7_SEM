@@ -1,0 +1,7 @@
+/Users/demonblo/Desktop/lab03/lab03/obj/Debug/lab03.csproj.AssemblyReference.cache
+/Users/demonblo/Desktop/lab03/lab03/obj/Debug/lab03.csproj.CoreCompileInputs.cache
+/Users/demonblo/Desktop/lab03/lab03/bin/Debug/lab03.exe.config
+/Users/demonblo/Desktop/lab03/lab03/bin/Debug/lab03.exe
+/Users/demonblo/Desktop/lab03/lab03/bin/Debug/lab03.pdb
+/Users/demonblo/Desktop/lab03/lab03/obj/Debug/lab03.exe
+/Users/demonblo/Desktop/lab03/lab03/obj/Debug/lab03.pdb
