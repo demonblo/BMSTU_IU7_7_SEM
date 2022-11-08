@@ -1,4 +1,4 @@
-# Install script for directory: /Users/demonblo/Desktop/DS_lab_01
+# Install script for directory: /Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/DS_lab_01
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/demonblo/Desktop/DS_lab_01/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/DS_lab_01/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
