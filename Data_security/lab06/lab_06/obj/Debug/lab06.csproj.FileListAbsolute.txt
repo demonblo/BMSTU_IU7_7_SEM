@@ -1,0 +1,7 @@
+/Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/lab06/lab_06/bin/Debug/lab06.exe.config
+/Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/lab06/lab_06/bin/Debug/lab06.exe
+/Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/lab06/lab_06/bin/Debug/lab06.pdb
+/Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/lab06/lab_06/obj/Debug/lab06.csproj.AssemblyReference.cache
+/Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/lab06/lab_06/obj/Debug/lab06.csproj.CoreCompileInputs.cache
+/Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/lab06/lab_06/obj/Debug/lab06.exe
+/Users/demonblo/Documents/GitHub/BMSTU_IU7_7_SEM/Data_security/lab06/lab_06/obj/Debug/lab06.pdb
