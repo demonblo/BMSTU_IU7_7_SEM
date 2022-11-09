@@ -9,7 +9,7 @@ namespace lab05
             string fileEncrypt = @"encryptKey.txt";
             string fileDecrypt = @"decryptKey.txt";
 
-            string fileNameScr = @"tests/text.txt";                //@"test_video.gif"; @"img.jpg"; @"text.txt";
+            string fileNameScr = @"tests/test.txt";                //@"test_video.gif"; @"img.jpg"; @"text.txt";
             string fileNameSigned = @"tests/signed_version.txt";
 
             Signature sign = new Signature(fileEncrypt, fileDecrypt);
